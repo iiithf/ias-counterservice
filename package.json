@@ -1,0 +1,27 @@
+{
+  "name": "ias-counterservice",
+  "version": "0.1.0",
+  "description": "It reads from a file an integer adds one to it and sends it output to an output stream visible on a separate UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiithf/ias-counterservice.git"
+  },
+  "keywords": [
+    "ias",
+    "counter",
+    "service"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiithf/ias-counterservice/issues"
+  },
+  "homepage": "https://github.com/iiithf/ias-counterservice#readme",
+  "dependencies": {
+    "needle": "^2.3.0"
+  }
+}
